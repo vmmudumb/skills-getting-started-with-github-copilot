@@ -99,12 +99,6 @@ activities = {
         "max_participants": 20,
         "participants": ["henry@mergington.edu", "abigail@mergington.edu"]
     },
-    "Robotics Club": {
-        "description": "Build and program robots for competitions and projects",
-        "schedule": "Tuesdays and Fridays, 4:00 PM - 6:00 PM",
-        "max_participants": 18,
-        "participants": ["jack@mergington.edu", "ella@mergington.edu"]
-    }
 }
 
 
