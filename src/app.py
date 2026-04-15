@@ -68,12 +68,6 @@ activities = {
         "schedule": "Thursdays, 3:30 PM - 5:00 PM",
         "max_participants": 16,
         "participants": ["mia@mergington.edu", "noah@mergington.edu"]
-    },
-    "Science Olympiad": {
-        "description": "Compete in science competitions and conduct exciting experiments",
-        "schedule": "Mondays, 3:30 PM - 5:00 PM",
-        "max_participants": 20,
-        "participants": ["charlotte@mergington.edu", "liam@mergington.edu"]
     }
 }
 
